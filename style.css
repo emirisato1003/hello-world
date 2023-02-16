@@ -1,5 +1,8 @@
 body{
     background: #dadada;
     font-family: 'Courier New', Courier, monospace;
-    
+}
+
+h1{
+    text-align: center;
 }
